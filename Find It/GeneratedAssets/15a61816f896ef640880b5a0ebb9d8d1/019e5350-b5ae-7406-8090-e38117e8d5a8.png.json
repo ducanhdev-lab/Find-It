@@ -1,0 +1,38 @@
+{
+    "asset": "15a61816f896ef640880b5a0ebb9d8d1",
+    "fileName": "019e5350-b5ae-7406-8090-e38117e8d5a8.png",
+    "prompt": "A cozy bedroom interior background for a hidden object game. Hand-drawn cartoon style, warm pastel palette, cozy evening lighting. Features a large bed with messy blankets, windows showing a dusk sky, and walls with posters. Plenty of floor space for objects. High detail environmental storytelling. No characters. 16:9 aspect ratio. Matches the provided reference image style.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "dc7ce8b363a104041a212aa666010419",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,38 @@
+{
+    "asset": "fdf0357a9c0560d40b6f6e9224f8bac7",
+    "fileName": "019e5350-e654-7ae2-aea5-9f86144054d0.png",
+    "prompt": "A Unity game asset sprite sheet. White background. STRICT 4x4 grid (4 columns, 4 rows = 16 equal cells). The grid should fill the entire image with size 1024x1024 with no extra border or padding outside the cells. Contains the following individual game assets, one per cell left-to-right top-to-bottom, styled to exactly match the hand-drawn cartoon, warm pastel, cozy evening art style of the provided reference image: Messy Wooden Desk, Hanging Fairy Lights strand, Cute Bunny Plushie, Kawaii Bear Plushie, Small Bookshelf with books, Open Laptop, Potted Succulent, Potted Monstera, Pile of Folded Blankets, Scented Candle, Bag of Potato Chips, Indie Game Poster. Rules: ONE asset per grid cell, centered with ample padding. Assets scaled to fit within cell. Clean solid black grid lines. White background inside cells. No text. No background removal. Negative prompt: text, labels, captions, blurry, distorted, overlapping assets.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "dc7ce8b363a104041a212aa666010419",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

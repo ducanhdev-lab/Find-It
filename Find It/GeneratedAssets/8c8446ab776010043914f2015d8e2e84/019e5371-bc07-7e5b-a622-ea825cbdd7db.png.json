@@ -1,0 +1,38 @@
+{
+    "asset": "8c8446ab776010043914f2015d8e2e84",
+    "fileName": "019e5371-bc07-7e5b-a622-ea825cbdd7db.png",
+    "prompt": "A cozy bedroom interior background for a hidden object game, 1920x1080 resolution, matching the art style and content of the reference image exactly. Hand-drawn cartoon style, warm pastel palette, cozy evening lighting. 16:9 aspect ratio.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "15a61816f896ef640880b5a0ebb9d8d1",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 1152
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

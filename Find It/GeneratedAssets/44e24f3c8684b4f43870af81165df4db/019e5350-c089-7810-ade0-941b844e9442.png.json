@@ -1,0 +1,38 @@
+{
+    "asset": "44e24f3c8684b4f43870af81165df4db",
+    "fileName": "019e5350-c089-7810-ade0-941b844e9442.png",
+    "prompt": "A Unity game asset sprite sheet. White background. STRICT 3x3 grid (3 columns, 3 rows = 9 equal cells). The grid should fill the entire image with size 1024x1024 with no extra border or padding outside the cells. Contains the following individual game assets, one per cell left-to-right top-to-bottom, styled to exactly match the hand-drawn cartoon, warm pastel, cozy evening art style of the provided reference image: Single Striped Sock, Enamel Cat Paw Pin, Retro Game Cartridge, Glowing Moon Lamp, Ornate Diary Key. Rules: ONE asset per grid cell, centered with ample padding. Assets scaled to fit within cell. Clean solid black grid lines. White background inside cells. No text. No background removal. Negative prompt: text, labels, captions, blurry, distorted, overlapping assets.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "dc7ce8b363a104041a212aa666010419",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
